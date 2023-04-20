@@ -1,4 +1,4 @@
-# Library-Management-System---C-
+# Library-Management-System---Cpp-
 
 This repository contains the c++ code for library manangment system.
 This mini project was done by myself during my Sem 3 on 28 July 2021.
